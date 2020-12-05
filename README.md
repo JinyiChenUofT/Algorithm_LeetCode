@@ -1,2 +1,9 @@
 # Algorithm_LeetCode
-Record the process of learning algorithm 
+
+
+### [Pratice Record](Practice\record.md)
+
+| Problem    | Fist Date | Second Date | Final Review | Comments |
+|------------|-----------|-------------|--------------|----------|
+| Move Zeros | 5/10      | 5/11        |              |          |
+| ...        | ...       | ...         | ...          | ...      |
