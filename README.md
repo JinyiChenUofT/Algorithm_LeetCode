@@ -1,7 +1,7 @@
 # Algorithm_LeetCode
 
 
-### [Pratice Record](Practice\record.md)
+### [Pratice Record](../Practice/record.md)
 
 | Problem    | Fist Date | Second Date | Final Review | Comments |
 |------------|-----------|-------------|--------------|----------|
