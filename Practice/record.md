@@ -45,7 +45,7 @@
 | Kth Smallest Element in a BST                             | 11/1/2020  |             |              |                                     |
 | LRU Cache                                                 | 11/1/2020  |             |              |                                     |
 | Sort Colors                                               | 12/1/2020  |             |              |                                     |
-| Sort List                                                 | 12/1/2020  |             |              |                                     |
+| Sort List                                                 | 12/5/2020  |             |              |                                     |
 |                                                           |            |             |              |                                     |
 |                                                           |            |             |              |                                     |
 |                                                           |            |             |              |                                     |
