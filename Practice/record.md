@@ -48,4 +48,4 @@
 | Sort List                                                 | 12/5/2020  |             |              |                                                                        |
 | 163. Missing Ranges                                       | 12/6/2020  |             |              | 中间值可能超过Int范围   (1. add a if condition 2. change int to float) |
 | 12. Integer to Roman                                      | 12/6/2020  |             |              | 1. greedy  2. hardcode digits                                          |
-|                                                           |            |             |              |                                                                        |
+| 23. Merge K Sorted Lists                                  | 12/13/2020 |             |              | 1. import heapq  2. overload __lt__ operator for listNode              |

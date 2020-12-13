@@ -1,1 +1,4 @@
   - [ ] valid number
+  - [x] Merge K Sorted List
+  - [ ] Least Recently Used
+  - [ ] Twitter
