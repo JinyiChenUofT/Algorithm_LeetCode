@@ -1,4 +1,11 @@
   - [ ] valid number
   - [x] Merge K Sorted List
-  - [ ] Least Recently Used
-  - [ ] Twitter
+  - [ ] Least Recently Used1232  - [ ] Twitter
+  - [x] 311. Sparse Matrix Multiplication
+  - [ ] String to Integer (atoi)
+  - [ ] Roman to Integer
+  - [ ] Sqrt(x) II
+  - [ ] Palindrome Number
+  - [ ] Add Digits
+  - [ ] Happy Number
+  - [ ] Binary Representation
