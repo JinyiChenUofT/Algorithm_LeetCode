@@ -51,6 +51,6 @@
 | 23. Merge K Sorted Lists                                  | 12/13/2020 |             |              | 1. import heapq  2. overload __lt__ operator for listNode               |
 | 50. Pow(x,n)                                              | 12/13/2020 |             |              | 二进制                                                                  |
 | 277. Find the Celebrity                                   | 12/13/2020 |             |              | 1. 降时间复杂度 --> 找冗余   2. 思维上双向： true 时候， false 的时候？ |
-| 311. Sparse Matrix Multiplication                         |            |             |              | 如果是稀疏 （很多 0 ）的时候怎么办？以什么样的循环顺序 -> 优化          |
+| 311. Sparse Matrix Multiplication                         | 12/13/2020 |             |              | 如果是稀疏 （很多 0 ）的时候怎么办？以什么样的循环顺序 -> 优化          |
 |                                                           |            |             |              |                                                                         |
 |                                                           |            |             |              |                                                                         |
