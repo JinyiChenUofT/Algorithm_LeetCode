@@ -59,5 +59,10 @@
 | 258. Add Digits                                           | 12/16/2020 |             |              |                                                                         |
 | 202. Happy Number                                         | 12/16/2020 |             |              |                                                                         |
 | 242. Valid Anagram                                        | 12/21/2020 |             |              |                                                                         |
+| 438. Find All Anagrams in a String                        | 12/22/2020 |             |              | sliding window                                                          |
+| 527. Word Abbreviation                                    | 12/23/2020 |             |              |                                                                         |
+| 288. Unique Word Abbreviation                             | 12/24/2020 |             |              |                                                                         |
+|                                                           |            |             |              |                                                                         |
+|                                                           |            |             |              |                                                                         |
 |                                                           |            |             |              |                                                                         |
 |                                                           |            |             |              |                                                                         |

@@ -1,8 +1,8 @@
   - [ ] valid number
   - [ ] Least Recently Used
   - [ ] Twitter
-  - [ ] Word Abbreviation
-  - [ ] Unique Word Abbreviation
+  - [x] Word Abbreviation
+  - [x] Unique Word Abbreviation
   - [ ] Longest Consecutive Sequence
   - [ ] Load Balancer
   - [ ] First Position Unique Character
@@ -10,4 +10,3 @@
   - [ ] Repeated DNA
   - [ ] Valid Sudoku
   - [ ] Longest Substring Without Repeating Characters
-  - [ ] 
