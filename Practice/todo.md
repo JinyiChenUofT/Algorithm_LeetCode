@@ -3,10 +3,10 @@
   - [ ] Twitter
   - [x] Word Abbreviation
   - [x] Unique Word Abbreviation
-  - [ ] Longest Consecutive Sequence
+  - [x] Longest Consecutive Sequence
   - [ ] Load Balancer
-  - [ ] First Position Unique Character
-  - [ ] Group Anagrams
-  - [ ] Repeated DNA
-  - [ ] Valid Sudoku
-  - [ ] Longest Substring Without Repeating Characters
+  - [x] First Position Unique Character
+  - [x] Group Anagrams
+  - [x] Repeated DNA
+  - [x] Valid Sudoku
+  - [x] Longest Substring Without Repeating Characters
