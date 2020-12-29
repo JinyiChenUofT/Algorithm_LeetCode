@@ -1,12 +1,4 @@
   - [ ] valid number
   - [ ] Least Recently Used
   - [ ] Twitter
-  - [x] Word Abbreviation
-  - [x] Unique Word Abbreviation
-  - [x] Longest Consecutive Sequence
-  - [ ] Load Balancer
-  - [x] First Position Unique Character
-  - [x] Group Anagrams
-  - [x] Repeated DNA
-  - [x] Valid Sudoku
-  - [x] Longest Substring Without Repeating Characters
+  - [ ] 
