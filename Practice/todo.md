@@ -1,4 +1,9 @@
   - [ ] valid number
   - [ ] Least Recently Used
   - [ ] Twitter
+  - [x] 752. Open the Lock
+  - [ ] Number of Islands
+  - [ ] Word Ladder
+  - [ ] Knight Shortest Path
+  - [ ] Build Post Office II
   - [ ] 

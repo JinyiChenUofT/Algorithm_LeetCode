@@ -70,7 +70,7 @@
 | 3. Longest Substring Without Repeating Characters         | 12/29/2020 |             |              | hash + sliding window                                                                      |
 | 130. Surrounded Regions                                   | 12/29/2020 |             |              | BFS / DFS in python queue: import queue  qx = queue.Queue()                                |
 | 286. Walls and Gates                                      | 12/29/2020 |             |              |                                                                                            |
-|                                                           |            |             |              |                                                                                            |
+| 752. Open the Lock                                        | 12/30/2020 |             |              | need review                                                                                |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
