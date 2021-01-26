@@ -71,7 +71,7 @@
 | 130. Surrounded Regions                                   | 12/29/2020 |             |              | BFS / DFS in python queue: import queue  qx = queue.Queue()                                |
 | 286. Walls and Gates                                      | 12/29/2020 |             |              |                                                                                            |
 | 752. Open the Lock                                        | 12/30/2020 | 1/25/2021   |              | need review                                                                                |
-|                                                           |            |             |              |                                                                                            |
+| 773. Sliding Puzzle                                       | 1/25/2021  |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
