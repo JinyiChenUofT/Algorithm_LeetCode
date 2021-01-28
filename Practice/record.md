@@ -44,6 +44,7 @@
 | Populating Next Right Pointers in Each Node               | 10/29/2020 |             |              |                                                                                            |
 | Kth Smallest Element in a BST                             | 11/1/2020  |             |              |                                                                                            |
 | LRU Cache                                                 | 11/1/2020  |             |              |                                                                                            |
+| 200. Number of Islands                                    | 11/04/2020 | 1/26/2021   |              |                                                                                            |
 | Sort Colors                                               | 12/1/2020  |             |              |                                                                                            |
 | Sort List                                                 | 12/5/2020  |             |              |                                                                                            |
 | 163. Missing Ranges                                       | 12/6/2020  |             |              | 中间值可能超过Int范围   (1. add a if condition 2. change int to float)                     |
@@ -72,7 +73,7 @@
 | 286. Walls and Gates                                      | 12/29/2020 |             |              |                                                                                            |
 | 752. Open the Lock                                        | 12/30/2020 | 1/25/2021   |              | need review                                                                                |
 | 773. Sliding Puzzle                                       | 1/25/2021  |             |              |                                                                                            |
-|                                                           |            |             |              |                                                                                            |
+| 305. Number of Islands II                                 | 1/27/2021  |             |              | Union-Find  !!!!!!!                                                                        |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
 |                                                           |            |             |              |                                                                                            |
