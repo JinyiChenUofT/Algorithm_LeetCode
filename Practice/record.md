@@ -42,7 +42,7 @@
 | Binary Tree Zigzag Level Order Traversal                  | 10/27/2020 |             |              |                                                                                            |
 | Construct Binary Tree from Preorder and Inorder Traversal | 10/28/2020 |             |              |                                                                                            |
 | Populating Next Right Pointers in Each Node               | 10/29/2020 |             |              |                                                                                            |
-| Kth Smallest Element in a BST                             | 11/1/2020  |             |              |                                                                                            |
+| Kth Smallest Element in a BST                             | 11/1/2020  | 2/1/2021    |              |                                                                                            |
 | LRU Cache                                                 | 11/1/2020  |             |              |                                                                                            |
 | 200. Number of Islands                                    | 11/04/2020 | 1/26/2021   |              |                                                                                            |
 | Sort Colors                                               | 12/1/2020  |             |              |                                                                                            |
@@ -75,5 +75,5 @@
 | 773. Sliding Puzzle                                       | 1/25/2021  |             |              |                                                                                            |
 | 305. Number of Islands II                                 | 1/27/2021  |             |              | Union-Find  !!!!!!!                                                                        |
 | 538. Convert BST to Greater Tree                          | 1/31/2021  |             |              |                                                                                            |
-|                                                           |            |             |              |                                                                                            |
+| 285. Inorder Successor in BST                             | 2/1/2021   |             |              | 没想明白。。                                                                               |
 |                                                           |            |             |              |                                                                                            |
